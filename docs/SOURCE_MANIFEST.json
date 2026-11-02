@@ -1,0 +1,68 @@
+[
+  {
+    "path": "projects/01-adult-income-pca/submission/DM-Project1.ipynb",
+    "source": "p1-submission/DM-Project1.ipynb",
+    "kind": "original submission with saved outputs",
+    "sha256": "008006981eaa6be3c46b0aa5ddd7a56d7d4368c3ea32db153dd7b25354ae5877"
+  },
+  {
+    "path": "projects/01-adult-income-pca/assignment/template.ipynb",
+    "source": "p1-assignment/DM-Project1.ipynb",
+    "kind": "original assignment notebook",
+    "sha256": "43b407fd7a761af7a9c03a3bb539b126ead2c0d573a39d3502904982a3607be8"
+  },
+  {
+    "path": "projects/01-adult-income-pca/data/adult.csv",
+    "source": "p1-assignment/adult.csv",
+    "kind": "course-provided dataset",
+    "sha256": "1f13ee2bf9d7c66098429281ab91fa1b51cbabd3b805cc365b3c6b44491ea2c0"
+  },
+  {
+    "path": "projects/02-regression-and-association-rules/submission/DM_P2_40023055.ipynb",
+    "source": "p2-submission/DM_P2_40023055.ipynb",
+    "kind": "original submission with saved outputs",
+    "sha256": "b56c40ebd1317d9763d1d18a98f2dc3cf0fd6f770cd6ac8dc3100cb683f47435"
+  },
+  {
+    "path": "projects/02-regression-and-association-rules/assignment/template.ipynb",
+    "source": "p2-assignment/data-mining-p2-student.ipynb",
+    "kind": "original assignment notebook",
+    "sha256": "f7b7fef9cd6348414dfab5fa291397467003bfc4eff4c6d861af3551da1cde8a"
+  },
+  {
+    "path": "projects/02-regression-and-association-rules/assignment/assignment.pdf",
+    "source": "p2-assignment/data-mining-p2.pdf",
+    "kind": "original assignment PDF",
+    "sha256": "25624d5de2fce0d505f0da4edb3c48f2624c3a2d5594a982f3a0aa8dd4e0b5d1"
+  },
+  {
+    "path": "projects/02-regression-and-association-rules/data/real-estate.csv",
+    "source": "p2-assignment/real-estate.csv",
+    "kind": "course-provided dataset",
+    "sha256": "0fa04f5127178599b7ee0a1d1c881ca671d9ff0c81f9b4f8b05a7becf4ff9fa4"
+  },
+  {
+    "path": "projects/02-regression-and-association-rules/data/grocery.csv",
+    "source": "p2-assignment/grocery.csv",
+    "kind": "course-provided dataset",
+    "sha256": "00cf8bd2f3ccc477ea6dd5fb9e56d58557c41e1105d06bad43ed8da35ee36cea"
+  },
+  {
+    "path": "projects/03-shopper-purchase-intention/submission/P3.ipynb",
+    "source": "p3-submission/DM_P3_ArianAbdollahi_40023055/P3.ipynb",
+    "kind": "original submission with saved outputs",
+    "sha256": "4d6d1adc580dd22206fc9d3d5d24f3ed2b56f4a44beffc7d88e51a872c4e0c06"
+  },
+  {
+    "path": "projects/03-shopper-purchase-intention/assignment/template.ipynb",
+    "source": "p3-assignment/P3.ipynb",
+    "kind": "original assignment notebook",
+    "sha256": "4fdfb706822f2b940a76024b1e00ac4e748953798e2ac02b22ebc540a1ad887a"
+  },
+  {
+    "path": "projects/03-shopper-purchase-intention/data/Customers_intention.csv",
+    "source": "p3-assignment/Customers_intention.csv",
+    "kind": "course-provided dataset",
+    "sha256": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9"
+  }
+]
