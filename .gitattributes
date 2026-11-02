@@ -4,3 +4,8 @@
 *.csv text eol=lf
 *.pdf binary
 *.png binary
+
+# Preserve supplied coursework and datasets byte for byte.
+projects/**/assignment/** -text
+projects/**/submission/** -text
+projects/**/data/** -text
